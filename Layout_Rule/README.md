@@ -17,5 +17,5 @@ MVMC members who need Altium Designer PCB Layout Rule.
 5. You suppose to click **OK**.
 ![How to Import Rule2](https://github.com/nuclear-refugee/AltiumDesigner_PcbLibrary/blob/master/Layout_Rule/Import_Rule_5.png?raw=true)
 
-6. Click **Apply**, then you've finished!
+6. Click **Apply**, then the work is finished!
 ![How to Import Rule2](https://github.com/nuclear-refugee/AltiumDesigner_PcbLibrary/blob/master/Layout_Rule/Import_Rule_6.png?raw=true)
